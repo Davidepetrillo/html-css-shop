@@ -36,3 +36,14 @@ width: 80%;
     padding: 1%;
     font-weight: bold;
 }
+p {
+    display: none;
+}
+div:hover p {
+    display: block;
+    color: red;
+    position: absolute;
+    bottom: .1%;
+    left: 49%;
+    right: 49%;
+}
