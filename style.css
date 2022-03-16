@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+body {
+margin: auto;
+width: 80%;
+}
+.item {
+    height: 400px;
+    width: 300px;
+    background-color: rgb(233, 231, 231);
+    display: inline-block;
+    margin-top: 3%;
+}
