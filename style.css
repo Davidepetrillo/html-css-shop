@@ -11,4 +11,28 @@ width: 80%;
     background-color: rgb(233, 231, 231);
     display: inline-block;
     margin-top: 3%;
+    position: relative;
+}
+.rectangle {
+    width: 35px;
+    height: 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.red {
+    background-color: red;
+    font-size: small;
+    text-align: center;
+    vertical-align: middle;
+    padding:1%;
+    font-weight: bold;
+}
+.green {
+    background-color: green;
+    font-size: small;
+    text-align: center;
+    vertical-align: middle;
+    padding: 1%;
+    font-weight: bold;
 }
